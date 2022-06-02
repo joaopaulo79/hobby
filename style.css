@@ -46,6 +46,14 @@ iframe {
     font-family: 'Spline Sans Mono', monospace;
 }
 
+.internal--text--reference {
+    color: #525cbd;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: 'Spline Sans Mono', monospace;
+    margin: 0 0 55px 0;
+}
+
 .page--footer {
     font-size: 18px;
     font-family: monospace;
