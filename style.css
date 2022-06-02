@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:wght@300;400;500;600;700&family=VT323&display=swap');
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 100;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'VT323', monospace;
+    font-size: 70px;
+    padding: 4px 0 4px 0;
+    min-width: 600px;
+    margin: 0 0 1px 0px;
+    background-color: #daecf5;
+}
+
+h2 {
+    margin: 50px 0 0 0;
+    font-family: 'VT323', monospace;
+    font-size: 40px;
+}
+
+div {
+    margin: 15px 150px 0 110px;
+    padding: 3px 0 3px 20px;
+    min-width: 420px;
+    max-width: 750px;
+}
+
+img {
+    margin: 20px 0 0 0;
+    box-shadow: 10px 10px 8px -8px #bebebe;
+}
+
+iframe {
+    margin: 20px 0 0 0;
+    box-shadow: 10px 10px 8px -8px #bebebe;
+}
+
+.text--reference {
+    color: #525cbd;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: 'Spline Sans Mono', monospace;
+}
+
+.page--footer {
+    font-size: 18px;
+    font-family: monospace;
+}
+
+.img--description {
+    font-size: 11px;
+    font-weight: 700;
+    margin: 3px 0 30px 0;
+    font-family: 'Spline Sans Mono', monospace;
+}
+
+.footer--div {   
+    margin: 15px 150px 0 110px;
+    padding: 3px 0 3px 20px;
+    min-width: 420px;
+    max-width: 750px;
+}
+
+.none--decoration {
+    text-decoration: none;
+    color: #2c0055;
+}
+
+.none--items--decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.none--bottom--decoration {
+    text-decoration: none;
+    color: #2c0055;
+    font-size: 1.2em;
+}
+
+#items--higher {
+    color: white;
+    text-align: center;
+    font-family: 'Spline Sans Mono', monospace;
+    font-size: 16px;
+    min-width: 600px;
+    padding: 13px 0 13px 0;
+    margin: 1px 0 0 0;
+    background-color: #3f4bb1;
+    box-shadow: 10px 10px 8px -8px #bebebe;
+}
+
+#items--bottom {
+    color: black;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: 'Spline Sans Mono', monospace;
+}
+
+#first--paragraph {
+    font-size: 17px;
+    color: #4d4d4d;
+    margin: 70px 0 0 0;
+}
+
+#img--icon {
+    margin: none;
+    box-shadow: none;
+}
