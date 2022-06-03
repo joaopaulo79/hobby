@@ -64,6 +64,7 @@ iframe {
     font-weight: 700;
     margin: 3px 0 30px 0;
     font-family: 'Spline Sans Mono', monospace;
+    max-width: 400px;
 }
 
 .footer--div {
